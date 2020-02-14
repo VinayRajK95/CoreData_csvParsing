@@ -1,0 +1,608 @@
+Region,State,City,Postal Code,Sales
+Central,Illinois,Arlington Heights,60004,$14
+Central,Illinois,Aurora,60505,$6964
+Central,Illinois,Bloomington,61701,$910
+Central,Illinois,Bolingbrook,60440,$218
+Central,Illinois,Buffalo Grove,60089,$831
+Central,Illinois,Carol Stream,60188,$1306
+Central,Illinois,Champaign,61821,$152
+Central,Illinois,Chicago,60610,$13325
+Central,Illinois,Chicago,60623,$18225
+Central,Illinois,Chicago,60653,$13840
+Central,Illinois,Danville,61832,$43
+Central,Illinois,Decatur,62521,$3169
+Central,Illinois,Des Plaines,60016,$1493
+Central,Illinois,Elmhurst,60126,$892
+Central,Illinois,Evanston,60201,$1754
+Central,Illinois,Frankfort,60423,$98
+Central,Illinois,Freeport,61032,$216
+Central,Illinois,Glenview,60025,$158
+Central,Illinois,Highland Park,60035,$2035
+Central,Illinois,Naperville,60540,$1048
+Central,Illinois,Normal,61761,$367
+Central,Illinois,Orland Park,60462,$340
+Central,Illinois,Oswego,60543,$322
+Central,Illinois,Park Ridge,60068,$541
+Central,Illinois,Peoria,61604,$376
+Central,Illinois,Quincy,62301,$330
+Central,Illinois,Rockford,61107,$2943
+Central,Illinois,Romeoville,60441,$9
+Central,Illinois,Saint Charles,60174,$1389
+Central,Illinois,Skokie,60076,$112
+Central,Illinois,Tinley Park,60477,$22
+Central,Illinois,Wheeling,60090,$737
+Central,Illinois,Woodstock,60098,$857
+Central,Indiana,Bloomington,47401,$604
+Central,Indiana,Columbus,47201,$6867
+Central,Indiana,Elkhart,46514,$171
+Central,Indiana,Greenwood,46142,$1425
+Central,Indiana,Indianapolis,46203,$9263
+Central,Indiana,La Porte,46350,$1021
+Central,Indiana,Lafayette,47905,$19255
+Central,Indiana,Lawrence,46226,$1545
+Central,Indiana,Mishawaka,46544,$776
+Central,Indiana,New Albany,47150,$210
+Central,Indiana,New Castle,47362,$85
+Central,Indiana,Noblesville,46060,$3091
+Central,Indiana,Portage,46368,$16
+Central,Indiana,Richmond,47374,$3151
+Central,Indiana,South Bend,46614,$1238
+Central,Iowa,Cedar Rapids,52402,$278
+Central,Iowa,Des Moines,50315,$2009
+Central,Iowa,Dubuque,52001,$1687
+Central,Iowa,Iowa City,52240,$10
+Central,Iowa,Marion,52302,$358
+Central,Iowa,Urbandale,50322,$103
+Central,Iowa,Waterloo,50701,$30
+Central,Kansas,Garden City,67846,$279
+Central,Kansas,Manhattan,66502,$274
+Central,Kansas,Olathe,66062,$896
+Central,Kansas,Overland Park,66212,$561
+Central,Kansas,Wichita,67212,$825
+Central,Michigan,Ann Arbor,48104,$889
+Central,Michigan,Dearborn,48126,$1603
+Central,Michigan,Dearborn Heights,48127,$1052
+Central,Michigan,Detroit,48205,$23019
+Central,Michigan,Detroit,48227,$8797
+Central,Michigan,Detroit,48234,$7050
+Central,Michigan,Grand Rapids,49505,$262
+Central,Michigan,Holland,49423,$138
+Central,Michigan,Jackson,49201,$15420
+Central,Michigan,Lansing,48911,$1610
+Central,Michigan,Lincoln Park,48146,$388
+Central,Michigan,Midland,48640,$5292
+Central,Michigan,Mount Pleasant,48858,$17
+Central,Michigan,Oak Park,48237,$581
+Central,Michigan,Rochester Hills,48307,$133
+Central,Michigan,Roseville,48066,$634
+Central,Michigan,Royal Oak,48073,$35
+Central,Michigan,Sterling Heights,48310,$110
+Central,Michigan,Taylor,48180,$354
+Central,Michigan,Trenton,48183,$1765
+Central,Michigan,Westland,48185,$2058
+Central,Minnesota,Apple Valley,55124,$138
+Central,Minnesota,Coon Rapids,55433,$503
+Central,Minnesota,Cottage Grove,55016,$144
+Central,Minnesota,Eagan,55122,$138
+Central,Minnesota,Lakeville,55044,$4239
+Central,Minnesota,Maple Grove,55369,$883
+Central,Minnesota,Minneapolis,55407,$16815
+Central,Minnesota,Moorhead,56560,$544
+Central,Minnesota,Rochester,55901,$767
+Central,Minnesota,Roseville,55113,$2216
+Central,Minnesota,Saint Cloud,56301,$1332
+Central,Minnesota,Saint Paul,55106,$193
+Central,Minnesota,Woodbury,55125,$608
+Central,Missouri,Columbia,65203,$2990
+Central,Missouri,Independence,64055,$1578
+Central,Missouri,Jefferson City,65109,$87
+Central,Missouri,Kirkwood,63122,$241
+Central,Missouri,Saint Charles,63301,$271
+Central,Missouri,Saint Louis,63116,$190
+Central,Missouri,Saint Peters,63376,$697
+Central,Missouri,Springfield,65807,$15051
+Central,Nebraska,Fremont,68025,$352
+Central,Nebraska,Grand Island,68801,$16
+Central,Nebraska,Norfolk,68701,$17
+Central,Nebraska,Omaha,68104,$3798
+Central,North Dakota,Fargo,58103,$892
+Central,Oklahoma,Broken Arrow,74012,$2440
+Central,Oklahoma,Edmond,73034,$960
+Central,Oklahoma,Lawton,73505,$1057
+Central,Oklahoma,Muskogee,74403,$1722
+Central,Oklahoma,Norman,73071,$1351
+Central,Oklahoma,Oklahoma City,73120,$6559
+Central,Oklahoma,Tulsa,74133,$5546
+Central,South Dakota,Rapid City,57701,$153
+Central,South Dakota,Sioux Falls,57103,$1137
+Central,Texas,Allen,75002,$290
+Central,Texas,Amarillo,79109,$3773
+Central,Texas,Arlington,76017,$5848
+Central,Texas,Austin,78745,$5279
+Central,Texas,Baytown,77520,$10
+Central,Texas,Beaumont,77705,$472
+Central,Texas,Bedford,76021,$226
+Central,Texas,Brownsville,78521,$964
+Central,Texas,Bryan,77803,$551
+Central,Texas,Carrollton,75007,$2062
+Central,Texas,Cedar Hill,75104,$122
+Central,Texas,Conroe,77301,$112
+Central,Texas,Coppell,75019,$136
+Central,Texas,Corpus Christi,78415,$221
+Central,Texas,Dallas,75081,$5397
+Central,Texas,Dallas,75217,$9690
+Central,Texas,Dallas,75220,$3009
+Central,Texas,Deer Park,77536,$7
+Central,Texas,Edinburg,78539,$86
+Central,Texas,El Paso,79907,$3450
+Central,Texas,Fort Worth,76106,$6603
+Central,Texas,Frisco,75034,$58
+Central,Texas,Garland,75043,$39
+Central,Texas,Grand Prairie,75051,$452
+Central,Texas,Grapevine,76051,$42
+Central,Texas,Haltom City,76117,$269
+Central,Texas,Harlingen,78550,$471
+Central,Texas,Houston,77036,$18219
+Central,Texas,Houston,77041,$16505
+Central,Texas,Houston,77070,$17059
+Central,Texas,Houston,77095,$9141
+Central,Texas,Huntsville,77340,$6711
+Central,Texas,Irving,75061,$606
+Central,Texas,Keller,76248,$6
+Central,Texas,La Porte,77571,$30
+Central,Texas,Laredo,78041,$1024
+Central,Texas,League City,77573,$875
+Central,Texas,Lubbock,79424,$593
+Central,Texas,Mansfield,76063,$559
+Central,Texas,Mcallen,78501,$867
+Central,Texas,Mesquite,75150,$52
+Central,Texas,Missouri City,77489,$6
+Central,Texas,Odessa,79762,$946
+Central,Texas,Pasadena,77506,$2264
+Central,Texas,Pearland,77581,$495
+Central,Texas,Pharr,78577,$1541
+Central,Texas,Plano,75023,$2545
+Central,Texas,Port Arthur,77642,$737
+Central,Texas,Richardson,75080,$1288
+Central,Texas,Round Rock,78664,$4406
+Central,Texas,San Angelo,76903,$345
+Central,Texas,San Antonio,78207,$21064
+Central,Texas,San Marcos,78666,$108
+Central,Texas,Texas City,77590,$791
+Central,Texas,The Colony,75056,$142
+Central,Texas,Tyler,75701,$347
+Central,Texas,Waco,76706,$606
+Central,Wisconsin,Appleton,54915,$1671
+Central,Wisconsin,Eau Claire,54703,$1613
+Central,Wisconsin,Franklin,53132,$4774
+Central,Wisconsin,Green Bay,54302,$527
+Central,Wisconsin,Kenosha,53142,$3907
+Central,Wisconsin,La Crosse,54601,$830
+Central,Wisconsin,Madison,53711,$3530
+Central,Wisconsin,Milwaukee,53209,$10929
+Central,Wisconsin,Sheboygan,53081,$80
+Central,Wisconsin,Superior,54880,$1300
+Central,Wisconsin,Waukesha,53186,$55
+Central,Wisconsin,Wausau,54401,$317
+Central,Wisconsin,West Allis,53214,$250
+East,Connecticut,Bristol,6010,$815
+East,Connecticut,Fairfield,6824,$3581
+East,Connecticut,Manchester,6040,$2126
+East,Connecticut,Meriden,6450,$1551
+East,Connecticut,Middletown,6457,$973
+East,Connecticut,Milford,6460,$962
+East,Connecticut,Norwich,6360,$414
+East,Connecticut,Shelton,6484,$73
+East,Connecticut,Waterbury,6708,$1326
+East,Delaware,Dover,19901,$449
+East,Delaware,Newark,19711,$9691
+East,Delaware,Wilmington,19805,$6554
+East,District of Columbia,Washington,20016,$2865
+East,Maine,Bangor,4401,$1164
+East,Maine,Lewiston,4240,$106
+East,Maryland,Baltimore,21215,$4811
+East,Maryland,Clinton,20735,$5241
+East,Maryland,Columbia,21044,$7949
+East,Maryland,Gaithersburg,20877,$406
+East,Maryland,Laurel,20707,$153
+East,Maryland,Rockville,20852,$470
+East,Massachusetts,Andover,1810,$436
+East,Massachusetts,Beverly,1915,$2583
+East,Massachusetts,Cambridge,2138,$502
+East,Massachusetts,Everett,2149,$5380
+East,Massachusetts,Franklin,2038,$5535
+East,Massachusetts,Holyoke,1040,$302
+East,Massachusetts,Lawrence,1841,$4266
+East,Massachusetts,Leominster,1453,$217
+East,Massachusetts,Lowell,1852,$3567
+East,Massachusetts,Malden,2148,$228
+East,Massachusetts,Marlborough,1752,$207
+East,Massachusetts,New Bedford,2740,$75
+East,Massachusetts,Quincy,2169,$946
+East,Massachusetts,Revere,2151,$833
+East,New Hampshire,Concord,3301,$2828
+East,New Hampshire,Dover,3820,$4429
+East,New Hampshire,Nashua,3060,$36
+East,New Jersey,Atlantic City,8401,$23
+East,New Jersey,Bayonne,7002,$183
+East,New Jersey,Belleville,7109,$1892
+East,New Jersey,Bridgeton,8302,$52
+East,New Jersey,Clifton,7011,$337
+East,New Jersey,East Orange,7017,$345
+East,New Jersey,Hackensack,7601,$1456
+East,New Jersey,Lakewood,8701,$14852
+East,New Jersey,Linden,7036,$115
+East,New Jersey,Morristown,7960,$5033
+East,New Jersey,New Brunswick,8901,$15
+East,New Jersey,Orange,7050,$211
+East,New Jersey,Passaic,7055,$1562
+East,New Jersey,Paterson,7501,$1221
+East,New Jersey,Perth Amboy,8861,$1717
+East,New Jersey,Plainfield,7060,$3728
+East,New Jersey,Vineland,8360,$648
+East,New Jersey,Westfield,7090,$473
+East,New York,Auburn,13021,$1384
+East,New York,Buffalo,14215,$8865
+East,New York,Freeport,11520,$523
+East,New York,Hempstead,11550,$2590
+East,New York,Jamestown,14701,$4709
+East,New York,Lindenhurst,11757,$55
+East,New York,Long Beach,11561,$8446
+East,New York,Mount Vernon,10550,$2120
+East,New York,New Rochelle,10801,$1255
+East,New York,New York City,10009,$47586
+East,New York,New York City,10011,$39750
+East,New York,New York City,10024,$74644
+East,New York,New York City,10035,$70588
+East,New York,Niagara Falls,14304,$200
+East,New York,Oceanside,11572,$3546
+East,New York,Rochester,14609,$5932
+East,New York,Rome,13440,$535
+East,New York,Troy,12180,$1327
+East,New York,Utica,13501,$535
+East,New York,Watertown,13601,$3949
+East,New York,Yonkers,10701,$7441
+East,Ohio,Akron,44312,$2730
+East,Ohio,Bowling Green,43402,$739
+East,Ohio,Cincinnati,45231,$1517
+East,Ohio,Cleveland,44105,$6286
+East,Ohio,Columbus,43229,$14764
+East,Ohio,Cuyahoga Falls,44221,$29
+East,Ohio,Dublin,43017,$2379
+East,Ohio,Fairfield,45014,$2519
+East,Ohio,Hamilton,45011,$328
+East,Ohio,Kent,44240,$346
+East,Ohio,Lakewood,44107,$1547
+East,Ohio,Lancaster,43130,$7938
+East,Ohio,Lorain,44052,$2015
+East,Ohio,Marion,43302,$3003
+East,Ohio,Mason,45040,$94
+East,Ohio,Medina,44256,$2478
+East,Ohio,Mentor,44060,$693
+East,Ohio,Newark,43055,$7497
+East,Ohio,Parma,44134,$3880
+East,Ohio,Springfield,45503,$4722
+East,Ohio,Toledo,43615,$3043
+East,Ohio,Troy,45373,$3181
+East,Pennsylvania,Allentown,18103,$853
+East,Pennsylvania,Altoona,16602,$20
+East,Pennsylvania,Bethlehem,18018,$1690
+East,Pennsylvania,Chester,19013,$1968
+East,Pennsylvania,Lancaster,17602,$671
+East,Pennsylvania,Philadelphia,19120,$21726
+East,Pennsylvania,Philadelphia,19134,$37676
+East,Pennsylvania,Philadelphia,19140,$20133
+East,Pennsylvania,Philadelphia,19143,$19957
+East,Pennsylvania,Reading,19601,$874
+East,Pennsylvania,York,17403,$818
+East,Rhode Island,Cranston,2920,$3432
+East,Rhode Island,Providence,2908,$15065
+East,Rhode Island,Warwick,2886,$2427
+East,Rhode Island,Woonsocket,2895,$196
+East,Vermont,Burlington,5408,$8724
+East,West Virginia,Wheeling,26003,$1210
+South,Alabama,Auburn,36830,$1767
+South,Alabama,Decatur,35601,$3135
+South,Alabama,Florence,35630,$1997
+South,Alabama,Hoover,35244,$526
+South,Alabama,Huntsville,35810,$1665
+South,Alabama,Mobile,36608,$5463
+South,Alabama,Montgomery,36116,$3723
+South,Alabama,Tuscaloosa,35401,$34
+South,Arkansas,Conway,72032,$302
+South,Arkansas,Fayetteville,72701,$3538
+South,Arkansas,Hot Springs,71901,$246
+South,Arkansas,Jonesboro,72401,$2915
+South,Arkansas,Little Rock,72209,$2407
+South,Arkansas,Pine Bluff,71603,$213
+South,Arkansas,Rogers,72756,$40
+South,Arkansas,Texarkana,71854,$654
+South,Florida,Apopka,32712,$905
+South,Florida,Boca Raton,33433,$63
+South,Florida,Boynton Beach,33437,$470
+South,Florida,Coral Gables,33134,$64
+South,Florida,Coral Springs,33065,$825
+South,Florida,Daytona Beach,32114,$272
+South,Florida,Delray Beach,33445,$243
+South,Florida,Deltona,32725,$893
+South,Florida,Fort Lauderdale,33311,$3028
+South,Florida,Hialeah,33012,$2198
+South,Florida,Hollywood,33021,$1059
+South,Florida,Homestead,33030,$85
+South,Florida,Jacksonville,32216,$37520
+South,Florida,Kissimmee,34741,$752
+South,Florida,Lakeland,33801,$5607
+South,Florida,Margate,33063,$16
+South,Florida,Melbourne,32935,$96
+South,Florida,Miami,33142,$3619
+South,Florida,Miami,33178,$1557
+South,Florida,Miami,33180,$3015
+South,Florida,Miramar,33023,$419
+South,Florida,North Miami,33161,$22
+South,Florida,Orlando,32839,$709
+South,Florida,Ormond Beach,32174,$3
+South,Florida,Palm Coast,32137,$274
+South,Florida,Pembroke Pines,33024,$1714
+South,Florida,Pensacola,32503,$2
+South,Florida,Plantation,33317,$1437
+South,Florida,Pompano Beach,33068,$90
+South,Florida,Port Saint Lucie,34952,$249
+South,Florida,Saint Petersburg,33710,$1691
+South,Florida,Sanford,32771,$226
+South,Florida,Tallahassee,32303,$7224
+South,Florida,Tamarac,33319,$1414
+South,Florida,Tampa,33614,$5150
+South,Florida,West Palm Beach,33407,$141
+South,Georgia,Athens,30605,$1435
+South,Georgia,Atlanta,30318,$17124
+South,Georgia,Columbus,31907,$14845
+South,Georgia,East Point,30344,$268
+South,Georgia,Macon,31204,$364
+South,Georgia,Marietta,30062,$2939
+South,Georgia,Roswell,30076,$6652
+South,Georgia,Sandy Springs,30328,$1997
+South,Georgia,Smyrna,30080,$2390
+South,Georgia,Warner Robins,31088,$435
+South,Georgia,Woodstock,30188,$287
+South,Kentucky,Bowling Green,42104,$141
+South,Kentucky,Florence,41042,$4560
+South,Kentucky,Georgetown,40324,$1786
+South,Kentucky,Henderson,42420,$11499
+South,Kentucky,Louisville,40214,$4358
+South,Kentucky,Murray,42071,$265
+South,Kentucky,Owensboro,42301,$71
+South,Kentucky,Richmond,40475,$3455
+South,Louisiana,Bossier City,71111,$1417
+South,Louisiana,Kenner,70065,$89
+South,Louisiana,Lafayette,70506,$3027
+South,Louisiana,Lake Charles,70601,$547
+South,Louisiana,Monroe,71203,$1757
+South,Mississippi,Gulfport,39503,$167
+South,Mississippi,Hattiesburg,39401,$1350
+South,Mississippi,Jackson,39212,$6568
+South,Mississippi,Southaven,38671,$1455
+South,North Carolina,Asheville,28806,$1404
+South,North Carolina,Burlington,27217,$2296
+South,North Carolina,Cary,27511,$505
+South,North Carolina,Chapel Hill,27514,$14
+South,North Carolina,Charlotte,28205,$12876
+South,North Carolina,Concord,28027,$5112
+South,North Carolina,Durham,27707,$880
+South,North Carolina,Fayetteville,28314,$2253
+South,North Carolina,Gastonia,28052,$895
+South,North Carolina,Goldsboro,27534,$35
+South,North Carolina,Greensboro,27405,$490
+South,North Carolina,Greenville,27834,$2118
+South,North Carolina,Hickory,28601,$41
+South,North Carolina,Jacksonville,28540,$5580
+South,North Carolina,Monroe,28110,$1213
+South,North Carolina,Raleigh,27604,$4508
+South,North Carolina,Thomasville,27360,$151
+South,North Carolina,Wilmington,28403,$727
+South,North Carolina,Wilson,27893,$369
+South,South Carolina,Columbia,29203,$6144
+South,South Carolina,Florence,29501,$1065
+South,South Carolina,Mount Pleasant,29464,$546
+South,South Carolina,North Charleston,29406,$269
+South,South Carolina,Rock Hill,29730,$12
+South,Tennessee,Bartlett,38134,$89
+South,Tennessee,Bristol,37620,$437
+South,Tennessee,Chattanooga,37421,$249
+South,Tennessee,Clarksville,37042,$2218
+South,Tennessee,Columbia,38401,$5153
+South,Tennessee,Franklin,37064,$948
+South,Tennessee,Hendersonville,37075,$16
+South,Tennessee,Jackson,38301,$817
+South,Tennessee,Johnson City,37604,$766
+South,Tennessee,Knoxville,37918,$3839
+South,Tennessee,Lebanon,37087,$489
+South,Tennessee,Memphis,38109,$5137
+South,Tennessee,Murfreesboro,37130,$321
+South,Tennessee,Nashville,37211,$5357
+South,Tennessee,Smyrna,37167,$849
+South,Virginia,Alexandria,22304,$5495
+South,Virginia,Arlington,22204,$13822
+South,Virginia,Charlottesville,22901,$68
+South,Virginia,Chesapeake,23320,$5492
+South,Virginia,Hampton,23666,$2722
+South,Virginia,Harrisonburg,22801,$4389
+South,Virginia,Newport News,23602,$3322
+South,Virginia,Richmond,23223,$5059
+South,Virginia,Salem,24153,$1303
+South,Virginia,Springfield,22153,$16600
+South,Virginia,Suffolk,23434,$1598
+South,Virginia,Virginia Beach,23464,$5752
+South,Virginia,Waynesboro,22980,$3059
+West,Arizona,Avondale,85323,$947
+West,Arizona,Bullhead City,86442,$22
+West,Arizona,Chandler,85224,$226
+West,Arizona,Gilbert,85234,$4172
+West,Arizona,Glendale,85301,$1946
+West,Arizona,Mesa,85204,$3419
+West,Arizona,Peoria,85345,$1273
+West,Arizona,Phoenix,85023,$10321
+West,Arizona,Scottsdale,85254,$1466
+West,Arizona,Sierra Vista,85635,$76
+West,Arizona,Tempe,85281,$1008
+West,Arizona,Tucson,85705,$4838
+West,Arizona,Yuma,85364,$841
+West,California,Anaheim,92804,$7390
+West,California,Antioch,94509,$19
+West,California,Apple Valley,92307,$1915
+West,California,Bakersfield,93309,$891
+West,California,Brentwood,94513,$4258
+West,California,Burbank,91505,$3247
+West,California,Camarillo,93010,$1468
+West,California,Chico,95928,$2050
+West,California,Chula Vista,91911,$1042
+West,California,Citrus Heights,95610,$129
+West,California,Concord,94521,$2603
+West,California,Costa Mesa,92627,$1373
+West,California,Davis,95616,$32
+West,California,El Cajon,92020,$866
+West,California,Encinitas,92024,$305
+West,California,Escondido,92025,$71
+West,California,Fairfield,94533,$1436
+West,California,Fresno,93727,$7840
+West,California,Hesperia,92345,$1213
+West,California,Huntington Beach,92646,$2528
+West,California,Inglewood,90301,$2987
+West,California,La Mesa,91941,$368
+West,California,La Quinta,92253,$46
+West,California,Laguna Niguel,92677,$217
+West,California,Lake Elsinore,92530,$284
+West,California,Lake Forest,92630,$1626
+West,California,Lakewood,90712,$1584
+West,California,Lancaster,93534,$477
+West,California,Lodi,95240,$137
+West,California,Long Beach,90805,$4593
+West,California,Los Angeles,90004,$22588
+West,California,Los Angeles,90008,$23150
+West,California,Los Angeles,90032,$22218
+West,California,Los Angeles,90036,$28594
+West,California,Los Angeles,90045,$37207
+West,California,Los Angeles,90049,$33792
+West,California,Manteca,95336,$452
+West,California,Mission Viejo,92691,$776
+West,California,Modesto,95351,$214
+West,California,Montebello,90640,$28
+West,California,Moreno Valley,92553,$1262
+West,California,Morgan Hill,95037,$545
+West,California,Murrieta,92563,$485
+West,California,Oakland,94601,$3585
+West,California,Oceanside,92054,$230
+West,California,Oxnard,93030,$1475
+West,California,Pasadena,91104,$3373
+West,California,Pico Rivera,90660,$146
+West,California,Pomona,91767,$1483
+West,California,Rancho Cucamonga,91730,$232
+West,California,Redding,96003,$334
+West,California,Redlands,92374,$2891
+West,California,Redondo Beach,90278,$1960
+West,California,Redwood City,94061,$42
+West,California,Riverside,92503,$1936
+West,California,Roseville,95661,$717
+West,California,Sacramento,95823,$7311
+West,California,Salinas,93905,$581
+West,California,San Bernardino,92404,$979
+West,California,San Clemente,92672,$90
+West,California,San Diego,92024,$6660
+West,California,San Diego,92037,$23655
+West,California,San Diego,92105,$13443
+West,California,San Francisco,94109,$24204
+West,California,San Francisco,94110,$29792
+West,California,San Francisco,94122,$48427
+West,California,San Gabriel,91776,$2061
+West,California,San Jose,95123,$6071
+West,California,San Luis Obispo,93405,$4
+West,California,San Mateo,94403,$75
+West,California,Santa Ana,92704,$3366
+West,California,Santa Barbara,93101,$4289
+West,California,Santa Clara,95051,$212
+West,California,Santa Maria,93454,$115
+West,California,Stockton,95207,$489
+West,California,Temecula,92592,$809
+West,California,Thousand Oaks,91360,$239
+West,California,Torrance,90503,$3132
+West,California,Vacaville,95687,$423
+West,California,Vallejo,94591,$1221
+West,California,Visalia,93277,$319
+West,California,Westminster,92683,$3795
+West,California,Woodland,95695,$265
+West,California,Yucaipa,92399,$51
+West,Colorado,Arvada,80004,$503
+West,Colorado,Aurora,80013,$4084
+West,Colorado,Broomfield,80020,$794
+West,Colorado,Colorado Springs,80906,$3694
+West,Colorado,Commerce City,80022,$146
+West,Colorado,Denver,80219,$9174
+West,Colorado,Englewood,80112,$124
+West,Colorado,Fort Collins,80525,$935
+West,Colorado,Greeley,80634,$30
+West,Colorado,Littleton,80122,$72
+West,Colorado,Longmont,80501,$915
+West,Colorado,Louisville,80027,$5070
+West,Colorado,Loveland,80538,$17
+West,Colorado,Parker,80134,$874
+West,Colorado,Pueblo,81001,$1687
+West,Colorado,Thornton,80229,$459
+West,Idaho,Boise,83704,$1094
+West,Idaho,Caldwell,83605,$456
+West,Idaho,Lewiston,83501,$10
+West,Idaho,Meridian,83642,$308
+West,Idaho,Pocatello,83201,$1345
+West,Idaho,Twin Falls,83301,$1149
+West,Montana,Billings,59102,$8
+West,Montana,Bozeman,59715,$44
+West,Montana,Great Falls,59405,$4606
+West,Montana,Helena,59601,$444
+West,Montana,Missoula,59801,$488
+West,Nevada,Henderson,89015,$1888
+West,Nevada,Las Vegas,89115,$1834
+West,Nevada,North Las Vegas,89031,$8131
+West,Nevada,Reno,89502,$644
+West,Nevada,Sparks,89431,$2562
+West,New Mexico,Albuquerque,87105,$2098
+West,New Mexico,Carlsbad,88220,$292
+West,New Mexico,Clovis,88101,$111
+West,New Mexico,Farmington,87401,$559
+West,New Mexico,Las Cruces,88001,$57
+West,New Mexico,Rio Rancho,87124,$1114
+West,New Mexico,Santa Fe,87505,$101
+West,Oregon,Eugene,97405,$1465
+West,Oregon,Gresham,97030,$2133
+West,Oregon,Hillsboro,97123,$64
+West,Oregon,Medford,97504,$90
+West,Oregon,Portland,97206,$4046
+West,Oregon,Redmond,97756,$1043
+West,Oregon,Salem,97301,$1405
+West,Oregon,Springfield,97477,$5761
+West,Oregon,Tigard,97224,$1394
+West,Utah,Draper,84020,$264
+West,Utah,Layton,84041,$5
+West,Utah,Lehi,84043,$1517
+West,Utah,Logan,84321,$280
+West,Utah,Murray,84107,$146
+West,Utah,Orem,84057,$2994
+West,Utah,Pleasant Grove,84062,$2138
+West,Utah,Provo,84604,$2761
+West,Utah,Salt Lake City,84106,$783
+West,Utah,West Jordan,84084,$312
+West,Washington,Auburn,98002,$4
+West,Washington,Bellevue,98006,$64
+West,Washington,Bellingham,98226,$1100
+West,Washington,Covington,98042,$414
+West,Washington,Des Moines,98198,$3454
+West,Washington,Edmonds,98026,$2436
+West,Washington,Kent,98031,$1351
+West,Washington,Longview,98632,$25
+West,Washington,Marysville,98270,$102
+West,Washington,Olympia,98502,$1020
+West,Washington,Pasco,99301,$1772
+West,Washington,Redmond,98052,$55
+West,Washington,Seattle,98103,$32402
+West,Washington,Seattle,98105,$36477
+West,Washington,Seattle,98115,$40072
+West,Washington,Spokane,99207,$1957
+West,Washington,Vancouver,98661,$687
+West,Wyoming,Cheyenne,82001,$1603
